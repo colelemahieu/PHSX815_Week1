@@ -1,4 +1,4 @@
-#! /usr/bin/env python
+#This file produces random numbers between 0 and 1 and writes them to a file named data.txt
 
 # imports of external packages to use in our code
 import sys

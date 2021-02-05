@@ -1,4 +1,4 @@
-#! /usr/bin/env python
+#This file reads the numbers from data.txt and plots them
 
 # imports of external packages to use in our code
 import sys
